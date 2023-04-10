@@ -1,3 +1,5 @@
+This is Will Alexander's Openclassrom Introduction to Angular : https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular
+
 # Snapface
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
